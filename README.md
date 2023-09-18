@@ -8,3 +8,5 @@ Build and optimize a resume with GPT-3. Maybe also resume search?
 - https://blog.hubspot.com/marketing/best-cover-letter-examples
 - https://novoresume.com/career-blog/cover-letter-examples
 - https://www.livecareer.com/resume/objectives 
+
+- https://www.cakeresume.com/resumes?q=%E5%AA%92%E4%BD%93
